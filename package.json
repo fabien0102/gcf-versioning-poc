@@ -1,0 +1,11 @@
+{
+  "name": "gcf-versionning-poc",
+  "version": "1.0.0",
+  "description": "My Graphcool Service",
+  "dependencies": {
+    "graphcool-lib": "^0.1.4"
+  },
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
